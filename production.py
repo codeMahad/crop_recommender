@@ -1,7 +1,7 @@
 from .base import *
 
 DEBUG = False
-ALLOWED_HOSTS = ['yourdomain.com']
+ALLOWED_HOSTS = ['www.mahad.tech']
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
